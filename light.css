@@ -1,0 +1,20 @@
+.title {
+   color: purple; 
+   font-size: 80px;
+   text-align: center; 
+
+}
+html {
+  
+
+}
+.light {
+    height: 140px;  
+
+    margin: -20px -50px; 
+    position: relative;
+    top:50%; 
+    left:50%;
+    margin-top:140px;
+
+}
